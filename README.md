@@ -19,7 +19,7 @@ Alongside my professional experience, I am pursuing a Master of Applied Informat
 
 Explore my postgraduate academic projects and applied research work as part of my Master program:
 
-[View Academic Projects & Research](https://github.com/sanigasebastian-t/academic-projects-and-research)
+- [Academic Projects & Research](https://github.com/sanigasebastian-t/academic-projects-and-research)
 
 ## Areas of Interest
 
