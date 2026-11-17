@@ -17,8 +17,6 @@ Explore my professional experience and selected case studies:
 
 Alongside my professional experience, I am pursuing a Master of Applied Information Technology at Wintec, New Zealand.
 
-## Academic Projects & Research
-
 Explore my postgraduate academic projects and applied research work as part of my Master program:
 
 [View Academic Projects & Research](https://github.com/sanigasebastian-t/academic-projects-and-research)
